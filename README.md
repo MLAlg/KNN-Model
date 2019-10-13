@@ -1,7 +1,9 @@
 # KNN
-K-Nearest-Neighbors Algorithm
+K-Nearest-Neighbors Classifier
 
-dataset : Data_hoda_full.mat,
+dataset : Data_hoda_full.mat, non-vectorial
 
-problem: supervised learning
+problem: supervised learning,
+
+type: linear classification
 
